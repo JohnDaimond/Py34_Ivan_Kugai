@@ -21,7 +21,7 @@ def __init__(self,values,keys,date):
 
     def date(self):
         print("date")
-
+####
 
 # Задача с тругольником
 class Rectangle:

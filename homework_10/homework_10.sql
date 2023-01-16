@@ -26,3 +26,5 @@ SELECT price FROM pc WHERE hd<1000;
 UPDATE  pc
     SET price=price*2
     WHERE price>400;
+
+#
